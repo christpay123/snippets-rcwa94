@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://christpay123.github.io/snippets-rcwa94/sitemap.xml
